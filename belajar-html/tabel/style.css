@@ -1,0 +1,56 @@
+*{
+  font-family: tahoma;
+}
+
+.tabel {
+  border-collapse: collapse;
+  box-sizing: border-box;
+
+}
+
+
+th{
+  border: 1px solid black;
+  background-color: #e0e0e0;
+ 
+  padding: 10px;
+}
+
+.barang{
+width: 200px;
+
+}
+
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+
+
+}
+
+
+tr{
+  border-bottom: 1px solid black;
+
+}
+
+.nomor {
+  text-align: center;
+}
+ .tabel img{
+  width: 100px;
+ display: block;
+
+ 
+  
+ }
+
+.total{
+  font-weight: bold;
+  text-align: right;
+}
+
+
+
+

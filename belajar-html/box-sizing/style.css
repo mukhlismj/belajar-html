@@ -1,0 +1,19 @@
+.div1 {
+  width: 300px;
+  margin: auto;
+  background-color: antiquewhite;
+  padding: 10px;
+}
+
+.div2 {
+  width: 300px;
+  background-color: red;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px;
+  border: 15px double blue;
+
+  /* ini untuk meriset dimensi */
+  box-sizing: border-box;
+}
